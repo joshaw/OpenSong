@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Come Let Us Worship And Bow Down</title>
+  <author>Dave Doherty</author>
+  <copyright>1980 Maranatha Praise, Inc.</copyright>
+  <ccli>27329</ccli>
+  <theme>Worship: Call/Opening; </theme>
+  <lyrics>[V1]
+.D           G               D
+ Come let us worship and bow down,
+.       Em                                  A           
+ Let us kneel before the Lord, our God, our Maker. 
+.D           G               D
+ Come let us worship and bow down,
+.       Em                                  A           
+ Let us kneel before the Lord, our God, our Maker. 
+
+[C]
+.    G D       A     
+ For He is our God,
+.    G          Em            A         
+ And we are the people of His pasture;
+.        G    A       D    Bm
+ And the sheep of His hand,
+.         G    A       D      
+ Just the sheep of His hand.</lyrics>
+  <presentation></presentation>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <style>
+  <title font="Palatino Linotype" size="20" bold="true" italic="false" underline="false" color="#FFFF00" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000" align="left" valign="bottom"/>
+  <subtitle font="Century Gothic" size="14" bold="true" italic="false" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000" align="left" valign="bottom"/>
+  <body font="Palatino Linotype" size="36" bold="true" italic="false" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#FF0000" align="left" valign="top"/>
+  <background strip_footer="25" color="#000000"></background></style></song>

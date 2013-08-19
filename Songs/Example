@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set>
+  <slide_groups>
+  <slide_group name="Announcements" type="custom" seconds="10" loop="true">
+  <title>Announcements</title>
+  <subtitle>For April 26th, 2004</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>-= Monday =-
+12-1 PM: Prayer Meeting</body></slide>
+  <slide>
+  <body>-= Wednesday =-
+6-7:30 PM: Prayer Meeting</body></slide>
+  <slide>
+  <body>-= Thursday =-
+6:30-8:30 PM: Youth Group</body></slide></slides></slide_group>
+  <slide_group name="Colossians 1:11-14" type="scripture">
+  <title>Colossians 1:11-14</title>
+  <subtitle>NKJV</subtitle>
+  <slides>
+  <slide>
+  <body>11 strengthened with all might, according to His glorious power, for all patience and longsuffering with joy; 12 giving thanks to the Father who has qualified us to be partakers of the inheritance of the saints in the light.</body></slide>
+  <slide>
+  <body>13 He has delivered us from the power of darkness and conveyed us into the kingdom of the Son of His love, 14 in whom we have redemption through His blood, the forgiveness of sins.</body></slide></slides>
+  <notes/>
+</slide_group>
+  <slide_group name="And Can It Be" type="song"/>
+  <slide_group name="He Leadeth Me" type="song"/>
+  <slide_group name="What A Friend We Have In Jesus" type="song"/>
+  <slide_group name="It Is Well With My Soul" type="song"/>
+  <slide_group name="Philippians 4:6-7" type="scripture">
+  <title>Philippians 4:6-7</title>
+  <subtitle>NKJV</subtitle>
+  <slides>
+  <slide>
+  <body>6 Be anxious for nothing, but in everything by prayer and supplication, with thanksgiving, let your requests be made known to God; 7 and the peace of God, which surpasses all understanding, will guard your hearts and minds through Christ Jesus.</body></slide></slides>
+  <notes/>
+</slide_group></slide_groups></set>

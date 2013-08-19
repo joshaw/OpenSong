@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Your Love Is Deeper - Jesus, Lord of Heaven</title>
+  <author>Phil Wickham</author>
+  <copyright>Phil Wickham</copyright>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="true">2</capo>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <lyrics>[V1]
+.A                   E
+ Jesus Lord of Heaven
+.F#m              D     A                   E
+ I do not deserve, this grace You have given
+.        F#m              D
+ And the promise of Your Word||
+.A                     E
+ Lord I stand in wonder
+.       F#m               D
+ Of the sacrifice You made
+.A                       E     F#m              D
+ With mercy beyond measure, my debt You freely paid
+
+
+[C]
+.            A    E
+ Your love is deeper than any ocean
+.F#m    D                  A
+ Higher    than the heavens   reaches
+.E                       D
+ Beyond the stars in the sky
+.       F#m          E     D
+ Jesus, Your love has no bounds</lyrics>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <time_sig></time_sig>
+  <style>
+  <title font="Palatino Linotype" size="20" bold="true" italic="false" underline="false" color="#FFFF00" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000" align="left" valign="bottom"/>
+  <subtitle font="Century Gothic" size="14" bold="true" italic="false" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000" align="left" valign="bottom"/>
+  <body font="Palatino Linotype" size="36" bold="true" italic="false" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#FF0000" align="left" valign="top"/>
+  <background strip_footer="25" color="#000000"/>
+</style></song>

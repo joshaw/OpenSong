@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>I Want To Praise You Lord</title>
+  <ccli>15245</ccli>
+  <author>Randy Thomas, Sam Scott</author>
+  <copyright>1981 Bud John Songs, Inc.</copyright>
+  <key>F</key>
+  <key_line>Much more than I do</key_line>
+  <aka>I Long To Love You Lord I Want To Love You Lord I Want To Know You Lord Ik Will U Prijzen Heer (Dutch) Ich Will Dich Preisen Herr; </aka>
+  <theme>Thanksgiving; Service; Praise; Devotion; </theme>
+  <lyrics>.          D2
+1I want to praise You Lord, |Much more than I do
+2I want to know   You Lord, |Much more than I do
+3I want to love   You Lord, |Much more than I do
+
+.          Bm9
+1I want to praise You Lord, |Much more than I do
+2I want to know   You Lord, |Much more than I do
+3I want to love   You Lord, |Much more than I do
+
+.G                      D/F#       Em7
+1Learn to seek Your face, |And the knowledge of Your grace
+2Learn to seek Your face, |And the knowledge of Your grace
+3Learn to seek Your face, |And the knowledge of Your grace
+
+.          Gmaj7/A Em7/A  (ending: D2)
+1I want to praise  You
+2I want to know    You
+3I want to love    You
+
+
+[DESCANT]
+.D2
+ Birds in the sky
+.D2
+ Sing their song to You
+.Bm9
+ Trees in the fields
+.Bm9
+ Lift their arms to You
+.G             D/F#
+ I want to sing
+.Em7                       Gmaj7/A Em7/A
+ I want to lift my arms to You
+
+
+[V4]
+.          E2
+ I want to serve You Lord
+.E2
+ Much more than I do
+.          C#m9
+ I want to serve You Lord
+.C#m9
+ Much more than I do
+.A                      E/G#
+ Learn to seek Your face
+.        F#m7
+ And the knowledge of Your grace
+.          Amaj7/B F#m7/B
+ I want to serve   You
+
+</lyrics>
+  <presentation>1 2 DESCANT 3 DESCANT V4</presentation>
+  <capo print="false">4</capo>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <style>
+  <title font="Palatino Linotype" size="20" bold="true" italic="false" underline="false" color="#FFFF00" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000" align="left" valign="bottom"/>
+  <subtitle font="Century Gothic" size="14" bold="true" italic="false" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000" align="left" valign="bottom"/>
+  <body font="Palatino Linotype" size="36" bold="true" italic="false" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#FF0000" align="left" valign="top"/>
+  <background strip_footer="25" color="#000068"></background></style></song>

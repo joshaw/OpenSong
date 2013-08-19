@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main_settings>
+  <ccli id="" password="" number=""/>
+  <version songs="0.98" sets="0.96" check="false"/>
+  <geometry y="39" x="1" width="1918" height="1040"/>
+  <last_scripture verse_per_slide="5" version="NIV" show_numbers="true" book="46" chapter="10" verse="13" thru="13" chars_per_slide="500" format="verse"/>
+  <proxy port="0" host=""/>
+  <fonts>
+  <headings font="DejaVu Sans" size="12" bold="false" italic="false" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
+  <labels font="DejaVu Sans" size="10" bold="false" italic="false" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
+  <text_fields font="DejaVu Sans" size="10" bold="false" italic="false" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
+  <fixed_width font="Inconsolata" size="12" bold="false" italic="false" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
+  <large_headings font="DejaVu Sans" size="18" bold="false" italic="false" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
+  <buttons font="DejaVu Sans" size="11" bold="true" italic="false" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
+</fonts>
+  <user_defined user1="User Defined 1" user2="User Defined 2" user3="User Defined 3"/>
+  <paint new="false"/>
+  <songfolder>( All )</songfolder>
+  <startmode sets="0"/>
+  <image_quality compression="3" exclude_backgrounds="false"/>
+  <song_revert_on_dont_save>true</song_revert_on_dont_save></main_settings>

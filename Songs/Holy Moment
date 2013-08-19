@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Holy Moment</title>
+  <ccli>3040904</ccli>
+  <author>Matt Redman</author>
+  <copyright>2000 Thankyou Music</copyright>
+  <lyrics>[C]
+ Come come come let us worship God
+ With our hands held high
+ And our hearts bowed down||
+ We will run run run
+ Through Your gates O God
+ With a shout of love
+
+[V1]
+ As we come today
+ We remind ourselves of what we do
+ That these songs are not just songs
+ But signs of love for You||
+ This is a holy moment now
+ Something of heaven touches earth
+ Voices of angels all resound
+ We join their song
+
+[V2]
+ Lord with confidence
+ We come before Your throne of grace
+ Not that we deserve to come
+ But You have paid the way||
+ You are the holy King of all
+ Heaven and earth are in Your hands
+ All of the angels sing Your song
+ We join them now</lyrics>
+  <presentation>V1 C V2 C</presentation>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <style>
+  <title font="Palatino Linotype" size="20" bold="true" italic="false" underline="false" color="#FFFF00" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000" align="left" valign="bottom"/>
+  <subtitle font="Century Gothic" size="14" bold="true" italic="false" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000" align="left" valign="bottom"/>
+  <body font="Palatino Linotype" size="36" bold="true" italic="false" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#FF0000" align="left" valign="top"/>
+  <background strip_footer="25" color="#000000"></background></style></song>

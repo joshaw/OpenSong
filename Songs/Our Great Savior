@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Our Great Savior</title>
+  <author>John Wilbur Chapman, Rowland Hugh Prichard</author>
+  <copyright>Public Domain</copyright>
+  <presentation>V1 C V2 C V3 C V4 C V5 C2</presentation>
+  <ccli>22142</ccli>
+  <capo print="true">5</capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.D     D/F#   G          A
+ Jesus what a friend for sinners
+.D/F#     D     A     D
+ Je___sus lover of my soul
+.D           D/F#    G      A
+ Friends may fail me foes assail me
+.D/F#    D      A        D
+ He   my Savior makes me whole
+
+[C]
+.D/F# D     Em7    A
+ Hallelujah what a Savior
+.D/F# D     G      A
+ Hallelujah what a Friend
+.D/F# D     Em7      D/F#     A
+ Sa___ving, helping, keeping, loving
+.D/F# D  G       A      D  (Key Ghange: B)
+ He   is with me to the end
+
+[V2]
+ Jesus what a strength in weakness
+ Let me hide myself in Him
+ Tempted tried and sometimes failing
+ He my strength my victory wins
+
+[V3]
+ Jesus what a help in sorrow
+ While the billows o'er me roll
+ Even when my heart is breaking
+ He my comfort helps my soul
+---
+[V4]
+ Jesus what a guide and keeper
+ While the tempest still is high
+ Storms about me night o'ertakes me
+ He my pilot hears my cry
+
+[V5]
+.E     E/G#  A     B
+ Jesus I do  now receive Him
+.E/G#      E      B     E
+ More than all in Him I find
+.E       E/G#    A     B
+ He hath granted me forgiveness
+.E/G#  E       B     E
+ I am  His and He is mine
+
+[C2]
+.E/G# E     F#m7   B
+ Hallelujah what a Savior
+.E/G# E     A      B
+ Hallelujah what a Friend
+.E/G# E     F#m7     E/G#     B
+ Sa___ving, helping, keeping, loving
+.E/G# E  A       B      E
+ He   is with me to the end</lyrics>
+  <style>
+  <title font="Palatino Linotype" size="20" bold="true" italic="false" underline="false" color="#FFFF00" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000" align="left" valign="bottom"/>
+  <subtitle font="Century Gothic" size="14" bold="true" italic="false" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000" align="left" valign="bottom"/>
+  <body font="Palatino Linotype" size="36" bold="true" italic="false" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#FF0000" align="left" valign="top"/>
+  <background strip_footer="25" color="#000000"/>
+</style></song>
