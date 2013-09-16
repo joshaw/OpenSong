@@ -68,4 +68,5 @@ gD//2Q==</logo_mask>
   <song_style_preferred>true</song_style_preferred>
   <presentation_mode code="2"/>
   <snapshot enable="false" export_preview="false" export_live_insertions="false" export_metadata="false">
-  <filename></filename></snapshot></present_settings>
+  <filename/>
+</snapshot></present_settings>
