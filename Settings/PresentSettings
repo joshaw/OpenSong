@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <present_settings version="1.0">
-  <style blanks="true" border="true" initial_mode="N" shadow="true" thickness="2" transition="false" exit_prompt="false" blank_uses_next="true" transition_frames="5" transition_time="100" default_audio="/opt/OpenSong/" mouse_cursor="arrow"/>
+  <style blanks="true" border="true" initial_mode="N" shadow="true" thickness="2" transition="true" exit_prompt="false" blank_uses_next="true" transition_frames="8" transition_time="50" default_audio="/opt/OpenSong/" mouse_cursor="arrow"/>
   <default_style index="default_style">
-  <title enabled="true" valign="bottom" align="left" include_verse="true" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="DejaVu Sans" size="8" bold="false" italic="true" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
-  <subtitle enabled="false" valign="bottom" align="center" descriptive="false" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="DejaVu Sans" size="18" bold="true" italic="false" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
+  <title enabled="true" valign="bottom" align="left" include_verse="false" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="DejaVu Sans" size="8" bold="false" italic="true" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
+  <subtitle enabled="false" valign="bottom" align="center" descriptive="true" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="DejaVu Sans" size="18" bold="true" italic="false" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
   <song_subtitle>author</song_subtitle>
   <body enabled="true" auto_scale="true" valign="middle" align="center" highlight_chorus="true" margin-left="20" margin-right="22" margin-top="20" margin-bottom="40" font="DejaVu Sans" size="24" bold="false" italic="false" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#FF0000">
   <tabs/>
@@ -23,7 +23,7 @@ gD//2Q==</background></default_style>
   <scripture_style index="scripture_style">
   <title enabled="true" valign="top" align="center" include_verse="false" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="DejaVu Sans" size="24" bold="true" italic="true" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
   <subtitle enabled="true" valign="bottom" align="center" descriptive="false" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="DejaVu Sans" size="20" bold="false" italic="false" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
-  <song_subtitle></song_subtitle>
+  <song_subtitle/>
   <body enabled="true" auto_scale="true" valign="middle" align="left" highlight_chorus="false" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="DejaVu Sans" size="34" bold="false" italic="false" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000">
   <tabs/>
 </body>
@@ -66,6 +66,6 @@ U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
 uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD0Ciii
 gD//2Q==</logo_mask>
   <song_style_preferred>true</song_style_preferred>
-  <presentation_mode code="0"/>
+  <presentation_mode code="2"/>
   <snapshot enable="false" export_preview="false" export_live_insertions="false" export_metadata="false">
   <filename></filename></snapshot></present_settings>

@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 C V2 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -21,8 +21,6 @@
  King of kings, majesty
 .       C      D         G
  God of heaven living in me
- 
-[V2]
 .D      G        D       G
  Gentle Saviour, closest friend
 .          C         D           G
@@ -31,20 +29,23 @@
  All within me falls at Your throne
  
 [C1]
-.         G        D       Em 
-   Your majesty, I can but bow
-.           C              D
-   I lay my all before You now
-[C2]
-.           G             Em 
-   In royal robes I don't deserve
-.            C          D      G
-   I live to serve Your majesty
+.       G        D       Em 
+ Your majesty, I can but bow
+.         C              D
+ I lay my all before You now
+.         G             Em 
+ In royal robes I don't deserve
+.          C          D      G
+ I live to serve Your majesty
  
-[V3] 
+[V2] 
+.D      G      D   G
  Earth and heaven, worship You
+.       C      D         G
  Love eternal, faithful and true
-[V4]
+.D      G       D        G
  Who bought the nations, ransomed souls
+.          C         D            G
  Brought this sinner near to Your throne
+.      C       D            Em   D
  All within me cries out in praise</lyrics></song>

@@ -16,9 +16,7 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics> 
-;Verse 1
-[V1]
+  <lyrics>[V1]
 .F#m     D              A         Em 
  I don't care what they say about me
 .      F#m  D   A    Em 
@@ -31,7 +29,6 @@
 .        A          Em 
  They'll get it one day
  
-;Pre-Chorus
 [P1]
  I love You, I'll follow You
  You are my, my life 
@@ -39,7 +36,6 @@
  I will read my bible and pray
  I will follow You all day
  
-;Verse 2
 [V3]
  I don't care what it costs any more
  Cause You gave it all and I'm following You
@@ -47,12 +43,10 @@
  I don't care what it takes anymore
  No matter what happens I'm going Your way
  
-;Chorus
 [C]
 .A   D    A   Em  A        D   F#m  D
  All day, All day now, all day
  
-;Bridge
 [B1]
 .Bm  D             Bm 
  Anyone around can see
