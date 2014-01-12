@@ -2554,7 +2554,7 @@
   <FileName>Salvation's Song</FileName>
   <title>Salvation's Song</title>
   <author>Stuart Townend</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>false</HasChords></Entry284>
   <Entry285>
   <Date>2013-09-13</Date>
@@ -2563,7 +2563,7 @@
   <FileName>In Christ Alone</FileName>
   <title>In Christ Alone</title>
   <author>Stuart Townend and Keith Getty</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry285>
   <Entry286>
   <Date>2013-09-13</Date>
@@ -2572,7 +2572,7 @@
   <FileName>Beautiful Saviour</FileName>
   <title>Beautiful Saviour</title>
   <author>Stuart Townend</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>false</HasChords></Entry286>
   <Entry287>
   <Date>2013-09-13</Date>
@@ -2581,7 +2581,7 @@
   <FileName>Beautiful Saviour</FileName>
   <title>Beautiful Saviour</title>
   <author>Stuart Townend</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>false</HasChords></Entry287>
   <Entry288>
   <Date>2013-09-13</Date>
@@ -2590,7 +2590,7 @@
   <FileName>How Deep the Father's Love For Us</FileName>
   <title>How Deep the Father's Love For Us</title>
   <author>Stuart Townend</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry288>
   <Entry289>
   <Date>2013-09-13</Date>
@@ -2599,7 +2599,7 @@
   <FileName>In Christ Alone</FileName>
   <title>In Christ Alone</title>
   <author>Stuart Townend and Keith Getty</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry289>
   <Entry290>
   <Date>2013-09-13</Date>
@@ -2608,7 +2608,7 @@
   <FileName>Songs/Beautiful Saviour</FileName>
   <title>Beautiful Saviour</title>
   <author>Stuart Townend</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>false</HasChords></Entry290>
   <Entry291>
   <Date>2013-09-13</Date>
@@ -2617,7 +2617,7 @@
   <FileName>Songs/Speak Oh Lord</FileName>
   <title>Speak Oh Lord</title>
   <author>Stuart Townend</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>false</HasChords></Entry291>
   <Entry292>
   <Date>2013-09-13</Date>
@@ -2626,7 +2626,7 @@
   <FileName>Songs/How Deep the Father's Love For Us</FileName>
   <title>How Deep the Father's Love For Us</title>
   <author>Stuart Townend</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry292>
   <Entry293>
   <Date>2013-09-13</Date>
@@ -2635,7 +2635,7 @@
   <FileName>Speak Oh Lord</FileName>
   <title>Speak Oh Lord</title>
   <author>Stuart Townend</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>false</HasChords></Entry293>
   <Entry294>
   <Date>2013-09-13</Date>
@@ -2644,7 +2644,7 @@
   <FileName>Speak Oh Lord</FileName>
   <title>Speak Oh Lord</title>
   <author>Stuart Townend</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>false</HasChords></Entry294>
   <Entry295>
   <Date>2013-09-13</Date>
@@ -2653,5 +2653,32 @@
   <FileName>Speak Oh Lord</FileName>
   <title>Speak Oh Lord</title>
   <author>Stuart Townend</author>
+  <ccli/>
+  <HasChords>false</HasChords></Entry295>
+  <Entry296>
+  <Date>2013-09-22</Date>
+  <Time>16:07:51</Time>
+  <Description>1</Description>
+  <FileName>( All )/My Heart is FIlled with Thankfullness</FileName>
+  <title>My Heart is FIlled with Thankfullness</title>
+  <author></author>
   <ccli></ccli>
-  <HasChords>false</HasChords></Entry295></log>
+  <HasChords>false</HasChords></Entry296>
+  <Entry297>
+  <Date>2013-09-22</Date>
+  <Time>16:08:45</Time>
+  <Description>3</Description>
+  <FileName>( All )/My Heart is FIlled with Thankfullness</FileName>
+  <title>My Heart is FIlled with Thankfullness</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry297>
+  <Entry298>
+  <Date>2013-09-22</Date>
+  <Time>16:09:03</Time>
+  <Description>3</Description>
+  <FileName>( All )/My Heart is FIlled with Thankfullness</FileName>
+  <title>My Heart is FIlled with Thankfullness</title>
+  <author>Stuart Townend</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry298></log>
