@@ -6,7 +6,7 @@
   <copyright>2003 Lorenz Publishing Company (Arrangement 2001 Bill Moore Music)</copyright>
   <key>G</key>
   <key_line></key_line>
-  <theme>Surrender; Cross; </theme>
+  <theme>Cross; Surrender; </theme>
   <lyrics>[V1]
 .D       F#m   G            D
  Jesus, I my   cross have taken,
@@ -16,6 +16,8 @@
  Destitute,   despised, forsaken,
 .D           F#m    G         D
  Thou from hence my all shall be.
+
+[V2]
 .Bm      Bm/A G        D
  Perish every fond ambition,
 .Bm         Bm/A      G      D
@@ -25,57 +27,67 @@
 .Em  D/F#  G          A        D   G D A
  God and   heaven are still my own.
  
-[V2]
+[V3]
  Let the world despise and leave me,
  They have left my Savior, too.
  Human hearts and looks deceive me;
  Thou art not, like them, untrue.
+
+[V4]
  O while Thou dost smile upon me,
  God of wisdom, love, and might,
  Foes may hate and friends disown me,
  Show Thy face and all is bright.
  
-[V3]
+[V5]
  Man may trouble and distress me,
  ’Twill but drive me to Thy breast.
  Life with trials hard may press me;
  Heaven will bring me sweeter rest.
+
+[V6]
  Oh, ’tis not in grief to harm me
  While Thy love is left to me;
  Oh, ’twere not in joy to charm me,
  Were that joy unmixed with Thee.
  
-[V4]
+[V7]
  Go, then, earthly fame and treasure,
  Come disaster, scorn and pain
  In Thy service, pain is pleasure,
  With Thy favor, loss is gain
+
+[V8]
  I have called Thee Abba Father,
  I have stayed my heart on Thee
  Storms may howl, and clouds may gather;
  All must work for good to me.
  
-[V5]
+[V9]
  Soul, then know thy full salvation
  Rise o’er sin and fear and care
  Joy to find in every station,
  Something still to do or bear.
+
+[V10]
  Think what Spirit dwells within thee,
  Think what Father’s smiles are thine,
  Think that Jesus died to win thee,
  Child of heaven, canst thou repine.
  
-[V6]
+[V11]
  Haste thee on from grace to glory,
  Armed by faith, and winged by prayer.
  Heaven’s eternal days before thee,
  God’s own hand shall guide us there.
+
+[V12]
  Soon shall close thy earthly mission,
  Soon shall pass thy pilgrim days,
  Hope shall change to glad fruition,
  Faith to sight, and prayer to praise.
  
-[V7]
+[V13]
 .E       G#m A            E
  Jesus, I my cross have taken,
 .E       G#m      A       B
@@ -93,7 +105,7 @@
 .F#m E/G# A          B        E   A E B
  God and  heaven are still my own.
  </lyrics>
-  <presentation>V1 V2 V3 V4 V5 V6 V7</presentation>
+  <presentation>V1 V2 V3 V4 V5 V6 V7 V8 V9 V10 V11 V12</presentation>
   <capo print="false"></capo>
   <aka></aka>
   <user1></user1>
@@ -101,4 +113,7 @@
   <user3></user3>
   <tempo></tempo>
   <time_sig></time_sig>
-  <hymn_number></hymn_number></song>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

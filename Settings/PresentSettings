@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <present_settings version="1.0">
-  <style blanks="true" border="true" initial_mode="N" shadow="true" thickness="2" transition="true" exit_prompt="false" blank_uses_next="true" transition_frames="8" transition_time="50" default_audio="/opt/OpenSong/" mouse_cursor="arrow"/>
+  <style blanks="true" border="true" initial_mode="N" shadow="true" thickness="2" transition="false" exit_prompt="false" blank_uses_next="true" transition_frames="8" transition_time="50" default_audio="/opt/OpenSong/" mouse_cursor="arrow"/>
   <default_style index="default_style">
   <title enabled="true" valign="bottom" align="left" include_verse="false" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="DejaVu Sans" size="8" bold="false" italic="true" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
   <subtitle enabled="false" valign="bottom" align="center" descriptive="true" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="DejaVu Sans" size="18" bold="true" italic="false" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
   <song_subtitle>author</song_subtitle>
-  <body enabled="true" auto_scale="true" valign="middle" align="center" highlight_chorus="true" margin-left="20" margin-right="22" margin-top="20" margin-bottom="40" font="DejaVu Sans" size="24" bold="false" italic="false" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#FF0000">
+  <body enabled="true" auto_scale="false" valign="middle" align="center" highlight_chorus="true" margin-left="20" margin-right="22" margin-top="20" margin-bottom="40" font="Libre Baskerville" size="28" bold="false" italic="false" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#FF0000">
   <tabs/>
 </body>
   <background strip_footer="0" color="#B81010" position="1">/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkz

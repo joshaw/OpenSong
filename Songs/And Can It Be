@@ -18,14 +18,14 @@
  Died He for me, who caused His pain?|For me, who Him to death pursued?
 .G       G/D       C   A  D   
  Amazing love, how can it be
-.     G       C           D       G     
- That thou my Lord should die for me?
+.     G       C             D       G     
+ That thou my Lord shouldst die for me?
  
 [C]
 . G      D         C      G
  Amazing love, how can it be
-.     C       G   Am     C   D   G
- That thou my God should die for me?
+.     C       G   Am       C   D   G
+ That thou my God shouldst die for me?
  
 [V2]
 .G                  Am/C D   G         C     D  G       D A      D
@@ -50,4 +50,7 @@
   <key></key>
   <aka></aka>
   <key_line></key_line>
-  <time_sig></time_sig></song>
+  <time_sig></time_sig>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

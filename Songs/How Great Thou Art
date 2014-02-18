@@ -12,12 +12,12 @@
   <user2></user2>
   <user3></user3>
   <lyrics>[V]
-.                  A2                  D
+.                  A                   D
 1Oh Lord my        God, when I in      awesome wonder
 2When through the  woods, and forest   glades I wander,
 3And when I        think that God, His Son not sparing
 4When Christ shall come with shout of  acclamation
-.             A2         E          Bm         A2
+.             A          E          Bm         A 
 1Consider     all the    works Thy  hands hath made;
 2And hear the birds sing sweetly    in the     trees;
 3Sent Him to  die, I     scarce can take it    in;
@@ -27,23 +27,26 @@
 2When I look down from lofty  mountain grandeur,
 3That on the cross, my burden gladly bearing,
 4Then I shall bow in humble   adoration,
-.                 A2       E        Bm         A2
+.                 A        E        Bm         A 
 1Thy pow'r throughout the  uni______verse dis__played.
 2And hear the    brook and feel the gentle     breeze.
 3He bled and     died to   take a___way my     sin.
 4And there pro___claim my  God how  great Thou art!
  
 [C]
-.              A2      D             A2
+.              A       D             A 
  Then sings my soul my Savior God to Thee,
-.               E                   A2
+.               E                   A 
  How great Thou art, how great Thou art;
-.                      D             A2
+.                      D             A 
  Then sings my soul my Savior God to Thee,
-.               E  Bm               A2
+.               E  Bm               A
  How great Thou art, how great Thou art.</lyrics>
   <hymn_number></hymn_number>
   <key></key>
   <aka></aka>
   <key_line></key_line>
-  <time_sig></time_sig></song>
+  <time_sig></time_sig>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

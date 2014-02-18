@@ -10,4 +10,9 @@
   <style caps_title="true" border_thickness="2" caps_song_title="true" highlight_chorus="true"/>
   <page width="595" height="841" left="72" top="42.51968" right="42.51968" bottom="72" points="true" inches="false"/>
   <leadsheet presentation="false"/>
-</print_settings>
+  <layout>
+  <sections/>
+  <chords/>
+  <lyrics/>
+  <capo/>
+</layout></print_settings>
