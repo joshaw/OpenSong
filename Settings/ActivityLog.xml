@@ -366,8 +366,8 @@
   <Description>3</Description>
   <FileName>How Great Thou Art</FileName>
   <title>How Great Thou Art</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry41>
   <Entry42>
   <Date>2014-02-12</Date>
@@ -376,7 +376,7 @@
   <FileName>And Can It Be</FileName>
   <title>And Can It Be</title>
   <author>Lindell Cooley</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry42>
   <Entry43>
   <Date>2014-02-12</Date>
@@ -566,4 +566,139 @@
   <title>And Can It Be That I Should Gain</title>
   <author>Alfred V. Fedak, Charles Wesley, Keith Landis</author>
   <ccli>2153751</ccli>
-  <HasChords>false</HasChords></Entry63></log>
+  <HasChords>false</HasChords></Entry63>
+  <Entry64>
+  <Date>2014-03-02</Date>
+  <Time>19:27:02</Time>
+  <Description>3</Description>
+  <FileName>The Raven</FileName>
+  <title>The Raven</title>
+  <author>Edgar Allen Poe</author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry64>
+  <Entry65>
+  <Date>2014-03-02</Date>
+  <Time>19:27:04</Time>
+  <Description>5</Description>
+  <FileName>The Raven</FileName>
+  <title>The Raven</title>
+  <author>Edgar Allen Poe</author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry65>
+  <Entry66>
+  <Date>2014-03-02</Date>
+  <Time>19:28:44</Time>
+  <Description>3</Description>
+  <FileName>The Raven</FileName>
+  <title>The Raven</title>
+  <author>Edgar Allen Poe</author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry66>
+  <Entry67>
+  <Date>2014-03-02</Date>
+  <Time>19:28:46</Time>
+  <Description>5</Description>
+  <FileName>The Raven</FileName>
+  <title>The Raven</title>
+  <author>Edgar Allen Poe</author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry67>
+  <Entry68>
+  <Date>2014-03-02</Date>
+  <Time>19:29:07</Time>
+  <Description>3</Description>
+  <FileName>The Raven</FileName>
+  <title>The Raven</title>
+  <author>Edgar Allen Poe</author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry68>
+  <Entry69>
+  <Date>2014-03-02</Date>
+  <Time>19:29:09</Time>
+  <Description>5</Description>
+  <FileName>The Raven</FileName>
+  <title>The Raven</title>
+  <author>Edgar Allen Poe</author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry69>
+  <Entry70>
+  <Date>2014-03-02</Date>
+  <Time>19:29:25</Time>
+  <Description>3</Description>
+  <FileName>The Raven</FileName>
+  <title>The Raven</title>
+  <author>Edgar Allen Poe</author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry70>
+  <Entry71>
+  <Date>2014-03-02</Date>
+  <Time>19:29:26</Time>
+  <Description>5</Description>
+  <FileName>The Raven</FileName>
+  <title>The Raven</title>
+  <author>Edgar Allen Poe</author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry71>
+  <Entry72>
+  <Date>2014-03-02</Date>
+  <Time>19:29:39</Time>
+  <Description>3</Description>
+  <FileName>The Raven</FileName>
+  <title>The Raven</title>
+  <author>Edgar Allen Poe</author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry72>
+  <Entry73>
+  <Date>2014-03-02</Date>
+  <Time>19:29:40</Time>
+  <Description>5</Description>
+  <FileName>The Raven</FileName>
+  <title>The Raven</title>
+  <author>Edgar Allen Poe</author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry73>
+  <Entry74>
+  <Date>2014-03-02</Date>
+  <Time>19:29:55</Time>
+  <Description>3</Description>
+  <FileName>The Raven</FileName>
+  <title>The Raven</title>
+  <author>Edgar Allen Poe</author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry74>
+  <Entry75>
+  <Date>2014-03-02</Date>
+  <Time>19:29:56</Time>
+  <Description>5</Description>
+  <FileName>The Raven</FileName>
+  <title>The Raven</title>
+  <author>Edgar Allen Poe</author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry75>
+  <Entry76>
+  <Date>2014-03-02</Date>
+  <Time>19:30:17</Time>
+  <Description>3</Description>
+  <FileName>The Raven</FileName>
+  <title>The Raven</title>
+  <author>Edgar Allen Poe</author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry76>
+  <Entry77>
+  <Date>2014-03-02</Date>
+  <Time>19:30:34</Time>
+  <Description>3</Description>
+  <FileName>The Raven</FileName>
+  <title>The Raven</title>
+  <author>Edgar Allen Poe</author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry77>
+  <Entry78>
+  <Date>2014-03-02</Date>
+  <Time>19:33:44</Time>
+  <Description>5</Description>
+  <FileName>The Raven</FileName>
+  <title>The Raven</title>
+  <author>Edgar Allen Poe</author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry78></log>
